@@ -13,3 +13,6 @@ Permite al usuario:
 El programa está diseñado para usarse desde la consola, con validaciones básicas para entradas numéricas y manejo de errores.
 
 Desarrollado con Python por @oscarduran-dev
+
+Autor
+Oscar Durán
